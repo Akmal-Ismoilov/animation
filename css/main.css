@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #ccc;
+}
+.container{
+  text-align: center;
+  height: 80px;
+  width: 100%;
+  background-color: #cccca0;
+}
+.container h1{
+  margin-top: 50%;
+}
